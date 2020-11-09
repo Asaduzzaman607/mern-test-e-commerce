@@ -1,0 +1,18 @@
+.activeColor {
+  color: black;
+  font-weight: 400;
+  text-decoration: none;
+}
+.activeColor:hover {
+  font-weight: 700;
+  color: black;
+  text-decoration: none;
+}
+
+.custom-sidebar {
+  width: 228px;
+  height: 955px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #ececec;
+  opacity: 1;
+}

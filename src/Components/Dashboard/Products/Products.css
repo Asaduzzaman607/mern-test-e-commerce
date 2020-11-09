@@ -1,0 +1,33 @@
+.product-form p {
+  font: normal normal normal 14px/20px Axiforma;
+  letter-spacing: 0px;
+  color: #1a1a1a;
+  opacity: 1;
+}
+
+.product-container {
+  width: 296px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #0000001c;
+  border-radius: 15px;
+  opacity: 1;
+}
+.main-btn {
+  width: 134px;
+  height: 45px;
+  background: #fff700 0% 0% no-repeat padding-box;
+  border-radius: 23px;
+  opacity: 1;
+  border: none;
+  font: normal normal 600 14px/26px Axiforma;
+  letter-spacing: 0px;
+  color: #1a1a1a;
+}
+.custom-form {
+  width: 296px;
+  height: 824px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #0000001c;
+  border-radius: 15px;
+  opacity: 1;
+}

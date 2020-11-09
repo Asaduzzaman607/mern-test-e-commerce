@@ -1,0 +1,31 @@
+.checkoutProduct {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 897px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 0px 6px #c9c9c919;
+  border-radius: 10px;
+  opacity: 1;
+}
+
+.checkoutProduct__title {
+  font: normal normal normal 14px/25px Axiforma;
+  letter-spacing: 0px;
+  color: #2b2b2b;
+  opacity: 1;
+}
+
+.dlt-btn {
+  position: relative;
+  right: 0;
+  top: 0;
+}
+.checkout-btn {
+  width: 219px;
+  height: 44px;
+  background: #fff700 0% 0% no-repeat padding-box;
+  border-radius: 3px;
+  opacity: 1;
+  border: none;
+}

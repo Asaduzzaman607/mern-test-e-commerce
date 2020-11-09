@@ -1,0 +1,53 @@
+.card-content {
+  width: 174px;
+  height: 71px;
+  background: #fff700 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #b9b9b91c;
+  border-radius: 8px;
+  opacity: 1;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-content1 {
+  width: 174px;
+  height: 71px;
+  background: #21aa00 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #b9b9b91c;
+  border-radius: 8px;
+  opacity: 1;
+  align-items: center;
+  justify-content: center;
+}
+.card-content2 {
+  width: 174px;
+  height: 71px;
+  background: #0099ff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #b9b9b91c;
+  border-radius: 8px;
+  opacity: 1;
+  align-items: center;
+  justify-content: center;
+}
+.card-content3 {
+  width: 174px;
+  height: 71px;
+  background: #ef0031 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #b9b9b91c;
+  border-radius: 8px;
+  opacity: 1;
+  align-items: center;
+  justify-content: center;
+}
+.card-title {
+  justify-content: center;
+}
+.cancel-btn {
+  width: 114px;
+  height: 45px;
+  background: #ff3d3d 0% 0% no-repeat padding-box;
+  border-radius: 23px;
+  opacity: 1;
+  color: white;
+  border: none;
+}

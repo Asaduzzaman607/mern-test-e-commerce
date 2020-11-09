@@ -1,0 +1,29 @@
+.body {
+  font: normal normal normal 14px/20px Axiforma;
+  letter-spacing: 0px;
+  color: #1a1a1a;
+  opacity: 1;
+}
+
+.act-btn {
+  width: 114px;
+  height: 45px;
+  background: #fffee1 0% 0% no-repeat padding-box;
+  border-radius: 23px;
+  opacity: 1;
+  font: normal normal normal 14px/20px Axiforma;
+  letter-spacing: 0px;
+  color: #7a4100;
+  border: none;
+}
+.deact-btn {
+  width: 114px;
+  height: 45px;
+  background: #ffe1e1 0% 0% no-repeat padding-box;
+  border-radius: 23px;
+  opacity: 1;
+  font: normal normal normal 14px/20px Axiforma;
+  letter-spacing: 0px;
+  color: #ff0729;
+  opacity: 1;
+}
