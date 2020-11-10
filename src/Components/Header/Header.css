@@ -13,3 +13,31 @@
 .header {
   text-align: center;
 }
+.header-logo {
+  width: 100px;
+  object-fit: contain;
+  margin: 0 20px;
+  padding: 6px;
+  color: white;
+  background-color: white;
+  border: 2px solid #131921;
+}
+.header-search {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  border-radius: 24px;
+}
+.header-search-icon {
+  padding: 5px;
+  margin-bottom: 2px;
+  width: 60px;
+  height: 60px;
+}
+.header-search-input {
+  height: 5px;
+  padding: 10px;
+  border: none;
+  border-bottom: 1px solid grey;
+  width: 450px;
+}

@@ -51,3 +51,6 @@
   color: white;
   border: none;
 }
+.box {
+  cursor: pointer;
+}
